@@ -2,6 +2,7 @@ body, html {
     height: 100%;
     margin: 0;
     font-family: Verdana;
+    background-color: black;
 }
 
 .hero-image {
@@ -160,15 +161,3 @@ ul#links li {
     color: white;
 }
 
-body {
-  background-color: black;
-}
-
-a { 
-  color: blue; 
-}
-
-.button4 {
-  background-color: #e7e7e7; color: black;
-  
-}
