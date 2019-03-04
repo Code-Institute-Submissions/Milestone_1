@@ -1,65 +1,65 @@
-Your Project's Name
-One or two paragraphs providing an overview of your project.
+Your Project's Name:
+User Centric Frontend Development Milestone Project.
 
-Essentially, this part is your sales pitch.
 
-UX
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+UX:
+This webiste is for fans of the 1970s British/American rock band - Fleetwood mac.
+This website will allow viewers to tour infomation, band information and social media links.
+This website is created using HTML & CSS
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+User Story:
+User - Fleetwood Mac fan, just heard the news that they will be touring in 2019 and eager to find out what cities they will be in and what dates.
+Click onto the Fleetwood Mac website, greeted with the information of their European tour dates.
+User finds the tour date they are looking for but curious to see where else they will be playing on their upcoming tour in 2019.
+Once the User see the dates they click on the link to book tickets - But tickets are currently unavailable for the Dublin date so the User will need to keep up to date of their tour news.
+The User goes onto the their social page and click the link to their Facebook - Gets redirected to their official Facebook page.
 
-Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
-Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+Features:
+Index: Home Page - Link to tour dates.
+About: Information about the band and members.
+Tour: Band tour dates & Video of them performing in concert
+music: Album information and sample music from each album
+Social: Links to the band official socail media pages.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-Features Left to Implement
-Another feature idea
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+Technologies Used:
+HTML
+CSS
+Bootstrap (https://getbootstrap.com/)
+Cloudflare (https://cdnjs.com/libraries)
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
-Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+Deployment:
+Initial deployment of website from Cloud9 to Github using Git.
+When website was deployed, two webpages where displayed incorrectly.
+Redployed the webpages several times to Github using Git until all five webpages displayed correctly.
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+Credits:
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+Content - 
+Index page: Header Hero Image: https://www.w3schools.com/howto/howto_css_hero_image.asp
+Image Aligment: https://www.w3schools.com/howto/howto_css_images_side_by_side.asp
+Button Design: https://www.w3schools.com/howto/howto_css_text_buttons.asp
+Band Information: https://en.wikipedia.org/wiki/Fleetwood_Mac
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+Media - 
+https://www.stuff.co.nz/entertainment/music/109998566/what-you-need-to-know-about-getting-fleetwood-mac-tickets-in-nz
+https://www.topsimages.com/images/youtube-rocket-love-stevie-ce.html
+https://en.wikipedia.org/wiki/Rumours_(album)
+https://en.wikipedia.org/wiki/Fleetwood_Mac_(1975_album)
+https://en.wikipedia.org/wiki/Tango_in_the_Night
+https://abcnews.go.com/Entertainment/stevie-nicks-reflects-rumours-album-turns-40/story?id=45260222
+https://www.billboard.com/articles/columns/rock/7678007/fleetwood-mac-rumours-stevie-nicks-ranked-anniversary
+http://music.blog.austin360.com/2015/02/27/fleetwood-mac-going-long-with-lindsey-buckingham/
+https://chapelboro.com/the-music-in-my-head/the-music-in-my-head-10-12-18
+https://www.morrisonhotelgallery.com/collections/fALB3t/Fleetwood-Mac
+https://www.express.co.uk/entertainment/music/944540/fleetwood-mac-lindsey-buckingham-John-McVie-Stevie-Nicks-Christine-McVie-Mick-Fleetwood
+https://playvk.com/en/search?q=fleetwood+mac
+https://www.youtube.com/watch?v=eam8HmS7PiQ
+https://www.broadwayworld.com/bwwmusic/article/Fleetwood-Mac-Announce-2018-2019-North-American-Tour-Dates-20180425
 
-Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
-Credits
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
-Acknowledgements
-I received inspiration for this project from X
+Thomas Devery

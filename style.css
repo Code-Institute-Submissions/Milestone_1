@@ -24,26 +24,6 @@ body, html {
 }
 
 
-.hero-text {
-  position: absolute;
-  top: 15%;
-  left: 30%;
-  transform: translate(-50%, -50%);
-  color: black;
-  padding: 20px ;
-}
-
-.hero-text button {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 10px 25px;
-  color: black;
-  background-color: #ddd;
-  text-align: center;
-  cursor: pointer;
-}
-
 
 .btn-group button {
     background-color: black; /* Green background */
@@ -57,14 +37,12 @@ body, html {
 }
 
 
-/* Clear floats (clearfix hack) */
 .btn-group:after {
     content: "";
     clear: both;
     display: table;
 }
 
-/* Add a background color on hover */
 .btn-group button:hover {
     background-color: #C0C0C0;
     color: black;
@@ -81,29 +59,19 @@ body, html {
     height: 40px;
 }
 
-.space-three {
-    background-color: #000000;
-    height: 40px;
-}
 
 .content {
     background-color: black;
 }
 
 
-/* Three image containers (use 25% for four, and 50% for two, etc) */
+
 .column {
   width: 33.33%;
   padding: 0px;
   display: inline-block;
 }
 
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 
 .content {
   color: white;
@@ -133,19 +101,6 @@ body, html {
     font-size: 16px;
 }
 
-ul#locations {
-    display: inline;
-}
-
-.container-fluid {
-    height: 10%;
-    font-family: Verdana;
-    background-color: black;
-}
-
-ul#links li {
-  display: inline;
-}
 
 .fa {
     width: 70px;
