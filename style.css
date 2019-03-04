@@ -101,6 +101,19 @@ body, html {
     font-size: 16px;
 }
 
+ul#locations {
+    display: inline;
+}
+
+.container-fluid {
+    height: 10%;
+    font-family: Verdana;
+    background-color: black;
+}
+
+ul#links li {
+  display: inline;
+}
 
 .fa {
     width: 70px;
